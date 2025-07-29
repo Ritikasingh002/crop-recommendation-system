@@ -1,4 +1,4 @@
-🌾 Crop Recommendation System with IBM Watsonx.ai Studio
+# 🌾 Crop Recommendation System with IBM Watsonx.ai Studio
 
 A supervised ML model built using IBM Cloud’s AutoAI to recommend suitable crops based on soil and climate data. Developed as part of Week 2 of the IBM AI & Cloud internship with Edunet Foundation, supported by AICTE.
 
